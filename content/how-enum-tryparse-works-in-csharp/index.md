@@ -73,10 +73,3 @@ This code will print `Not Parsed`
 ## Conclusion
  
 In this article, We have discussed the mistake which we can make using Enum.TryParse() method. This mistake can hurt and can abnormally terminate our program/application. We can use the ways which I have mentioned in this article to overcome so that our program/application can run smoothly.
- 
- 
- 
- 
- 
- 
-
